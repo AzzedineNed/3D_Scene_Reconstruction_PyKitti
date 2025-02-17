@@ -24,12 +24,12 @@ Here are some visual representations related to the project:
 
 ### KITTI Car Blueprint  
 This image shows the top-down view of the car used in the KITTI dataset, providing an idea of its orientation during data collection.  
-![KITTI Car Blueprint]([path_to_your_blueprint_image.png](https://github.com/AzzedineNed/3D_Scene_Reconstruction_PyKitti/blob/main/setup_top_view.png))
+![KITTI Car Blueprint](https://github.com/AzzedineNed/3D_Scene_Reconstruction_PyKitti/blob/main/setup_top_view.png)
 
 ### Car Moving Forward (GIF)  
 This GIF shows the forward motion of the car in the KITTI dataset, illustrating its movement over time.  
-![Car Moving Forward]([path_to_your_car_gif.gif](https://github.com/AzzedineNed/3D_Scene_Reconstruction_PyKitti/blob/main/KITTI_POV_camera2.gif))
+![Car Moving Forward](https://github.com/AzzedineNed/3D_Scene_Reconstruction_PyKitti/blob/main/KITTI_POV_camera2.gif)
 
 ### 3D Scene Reconstruction (GIF)  
 This GIF demonstrates the 3D scene reconstruction from the LiDAR and camera data, showing how the 3D point cloud evolves and can be visualized using MeshLab.  
-![3D Scene Reconstruction]([path_to_your_3d_scene_gif.gif](https://github.com/AzzedineNed/3D_Scene_Reconstruction_PyKitti/blob/main/results.gif))
+![3D Scene Reconstruction](https://github.com/AzzedineNed/3D_Scene_Reconstruction_PyKitti/blob/main/results.gif)
